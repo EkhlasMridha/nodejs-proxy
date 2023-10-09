@@ -6,6 +6,6 @@
 
 - create `.env` file on project directory
 
-- add line **API_TARGET_URL = "URL TO REDIRECT** on `.env`
+- add line **API_TARGET_URL = "URL TO REDIRECT"** on `.env`
 
 - Run `npm start`
